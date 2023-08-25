@@ -1,4 +1,4 @@
-# Animated-Pattern-using-Threads-Coding-Joy
+# Animated-Cross-Pattern-using-Threads-Coding-Joy
 
 The task at hand is to generate a cross pattern by making use of multiple nested loops and add animation to it using threads.
 
